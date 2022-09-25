@@ -9,4 +9,4 @@ Pontos refinados:
  
  ## Modelo EER Diagram Ecommerce - DIO
  
- [![Modelo EER Diagram Ecommerce](https://github.com/WANGOMES/Projeto-Conceitual-de-Banco-de-Dados-dio/blob/main/EER%20Diagram%20Ecommerce_bd.png "Modelo EER Diagram Ecommerce") (https://github.com/WANGOMES/Projeto-Conceitual-de-Banco-de-Dados-dio/blob/main/EER%20Diagram%20Ecommerce_bd.png)]
+ ![Modelo EER Diagram Ecommerce](https://github.com/WANGOMES/Projeto-Conceitual-de-Banco-de-Dados-dio/blob/main/EER%20Diagram%20Ecommerce_bd.png "Modelo EER Diagram Ecommerce")
