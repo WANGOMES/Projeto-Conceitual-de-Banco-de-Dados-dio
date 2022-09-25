@@ -7,4 +7,4 @@ Pontos refinados:
  O PAGAMENTO foi modelado como uma entidade e possui um relacionamento com PEDIDO e relação com CLIENTE de 1 para N;
  A ENTREGA, que tem como atributo código de rastreio, foi modelada como Entidade e possui um relacionamento com PEDIDO.
  
- 
+ [![Modelo EER Diagram Ecommerce]( "Modelo EER Diagram Ecommerce")]
